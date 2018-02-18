@@ -1,0 +1,4 @@
+#Sun Feb 18 04:36:25 EST 2018
+base.0=C\:\\Users\\proju\\Desktop\\Collab\\New Unity Project (3)\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\proju\\Desktop\\Collab\\New Unity Project (3)\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

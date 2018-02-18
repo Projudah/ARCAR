@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="two" size="1.000000 1.007752" />
+    <ImageTarget name="one" size="1.000000 1.028509" />
+    <ImageTarget name="28117143_10213153169518360_1595587479_n" size="1.000000 0.976285" />
+    <ImageTarget name="28190721_10213153169638363_622085269_n" size="1.000000 0.960000" />
+    <ImageTarget name="28176289_10213153169598362_521465288_n" size="1.000000 0.980159" />
+    <ImageTarget name="28235837_10213153169558361_2046538090_n" size="1.000000 1.003861" />
+    <ImageTarget name="mlh-logo-color" size="1.000000 0.421116" />
+  </Tracking>
+</QCARConfig>
